@@ -7,10 +7,9 @@
         "id": "ac29aee9a5e37b92",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Literature Notes/MWeb.md",
-            "mode": "preview"
+            "file": "Attachment/Data Program Studi MB IPB.pdf"
           }
         }
       }
@@ -58,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Literature Notes/MWeb.md",
+            "file": "Attachment/Data Program Studi MB IPB.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,15 +73,15 @@
   },
   "active": "ac29aee9a5e37b92",
   "lastOpenFiles": [
-    "Literature Notes/MWeb.md",
-    "Markdown Syntax.md",
-    "MWeb.md",
-    "Untitled.md",
+    "Attachment/Data Program Studi MB IPB.pdf",
+    "Attachment/EE6A6403-32FB-4256-9B7A-655BA56E99B5.png",
+    "README.md",
+    "Jurnal.md",
     "Flowchart minimal to pdf.md",
     "Agenda – Sekolah Pascasarjana IPB.md",
-    "Jurnal.md",
-    "Md Mat.md",
-    "Permanent Notes/Tulisan Berdasarkan ide yang ada.md",
-    "Permanent Notes/21-8-25-01.16 (Edit name or key world).md"
+    "tes.md",
+    "Attachment/Setting up iOS git-based syncing with mobile app (using Working Copy).pdf",
+    "Literature Notes/MWeb.md",
+    "Markdown Syntax.md"
   ]
 }
