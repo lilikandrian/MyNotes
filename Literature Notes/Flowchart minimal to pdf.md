@@ -1,12 +1,13 @@
-# # Flowchart 
+#markdown #tipsandtrik 
+# Flowchart 
 
  mermaid sequenceDiagram participant Alice participant Bob Alice->John: Hello John, how are you? loop Healthcheck John->John: Fight against hypochondria end Note right of John: Rational thoughts <br/>prevail... John-->Alice: Great! John->Bob: How about you? Bob-->John: Jolly good!  
 
-## ## flowchart 2 
+## flowchart 2 
 
  dot 
 
-# # http://www.graphviz.org/ 
+# http://www.graphviz.org/ 
 
 # content/cluster 
 
@@ -58,15 +59,15 @@ start [shape=Mdiamond]; end [shape=Msquare];
 
 [[Flowchart minimal to pdf.pdf]]
 
-# # Flowchart 
+# Flowchart 
 
  mermaid sequenceDiagram participant Alice participant Bob Alice->John: Hello John, how are you? loop Healthcheck John->John: Fight against hypochondria end Note right of John: Rational thoughts <br/>prevail... John-->Alice: Great! John->Bob: How about you? Bob-->John: Jolly good!  
 
-## ## flowchart 2 
+## flowchart 2 
 
  dot 
 
-# # http://www.graphviz.org/ 
+# http://www.graphviz.org/ 
 
 # content/cluster 
 

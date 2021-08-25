@@ -1,3 +1,4 @@
+#artikel #notes 
 Dalam Membuat Laporan, Artikel, Novel, penulis biasanya menggunakan aplikasi yang ringan, mereka kebanyakan tidak menggunakan aplikasi MS World, Pages dan aplikasi yang menggunakan istilah “what You See What You Get”.
 
 Kebanyakan mereka menggunakan LaTex, mWeb.
