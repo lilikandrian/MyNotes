@@ -33,14 +33,14 @@ Setting image width, align left, align right, align center syntax. For example: 
 
 **Example:**
 
-	```js
+    ```js
 	function fancyAlert(arg) {
 	  if(arg) {
 	    $.facebox({div:'#foo'})
 	  }
 
 	}
-	```
+    ```
 
 **Result:**
 

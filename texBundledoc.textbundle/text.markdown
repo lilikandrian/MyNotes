@@ -25,6 +25,10 @@ Karna gambar juga tidak dapat terlihat.
 |        |       |           |   |   |
 
 
+-------
+## Roma Lilik Andrian
+- membuat bullet
+- ini membuat Bullet
 
 
 
