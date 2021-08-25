@@ -12,5 +12,6 @@ https://lib.ft.ugm.ac.id/menulis-menggunakan-latex/
 LaTeX bukanlah bahan karet yang digunakan untuk pakaian, apalagi gaya-gayaan. LaTeX adalah software seperti Word yang digunakan untuk membuat dokumen seperti buku, laporan, tesis dan makalah. Perbedaan utama antara LaTeX dan Word adalah Microsoft Word menyediakan teks yang sudah diformat khusus yang bisa dipilih dari menu-menunya sehingga:
 https://mti.binus.ac.id/2017/12/05/cara-menulis-karya-ilmiah-menggunakan-latex/
 
+_Roma Lilik Andrian_
 
 **MarkDown**
