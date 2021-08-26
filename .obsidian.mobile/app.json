@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "Literature Notes/media",
+  "attachmentFolderPath": "media",
   "spellcheck": false,
   "tabSize": 2,
   "mobileToolbarCommands": [
@@ -20,10 +20,13 @@
     "editor:toggle-checklist-status",
     "editor:indent-list",
     "editor:unindent-list",
+    "editor:toggle-keyboard",
     "editor:undo",
     "editor:redo",
-    "editor:toggle-keyboard",
     "editor:focus",
+    "editor:go-start",
+    "editor:go-end",
     "editor:configure-toolbar"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

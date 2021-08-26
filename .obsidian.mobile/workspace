@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0da7ee3f6896a812",
+        "id": "ebd5022dd6601e62",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Daily Notes/2021-08-26.md",
-            "mode": "source"
+            "file": "40 Output/uinwsskripsi-main/gambarcontoh.jpg"
           }
         }
       }
@@ -35,7 +34,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "#Markdown",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -58,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/2021-08-26.md",
+            "file": "40 Output/uinwsskripsi-main/gambarcontoh.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -72,17 +71,17 @@
     ],
     "currentTab": 0
   },
-  "active": "0da7ee3f6896a812",
+  "active": "ebd5022dd6601e62",
   "lastOpenFiles": [
-    "Daily Notes/2021-08-26.md",
-    "Literature Notes/DOCUMENTS.md",
-    "Literature Notes/Contoh Note Literature (sumber ide atau Gagasan).md",
-    "Literature Notes/Agenda – Sekolah Pascasarjana IPB.md",
-    "Template/Permanent Notes Templates.md",
-    "texBundledoc.textbundle/assets/16299219348148.jpg",
-    "Drag and drop test.md",
-    "Untitled.md",
-    "Daily Notes/2021-08-25.md",
-    "Daily Notes/21-8-25-21.42 (Edit name or key world).md"
+    "40 Output/uinwsskripsi-main/gambarcontoh.jpg",
+    "40 Output/uinwsskripsi-main/Logo_uin_walisongo.png",
+    "40 Output/uinwsskripsi-main/README.md",
+    "40 Output/uinwsskripsi-main/skripsi_uinws.pdf",
+    "40 Output/Textbundle Example.textbundle/assets/textbundle.png",
+    "40 Output/Textbundle Example.textbundle/text.md",
+    "40 Output/Textbundle Example 3.textbundle/assets/textbundle.png",
+    "40 Output/Textbundle Example 2.textbundle/assets/textbundle.png",
+    "40 Output/Textbundle Example 2.textbundle/text.md",
+    "20 Daily and Permanent Notes/2021-08-26.md"
   ]
 }
