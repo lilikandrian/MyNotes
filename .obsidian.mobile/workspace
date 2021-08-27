@@ -7,8 +7,11 @@
         "id": "0da7ee3f6896a812",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "20 Daily and Permanent Notes/2021-08-26.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -42,7 +45,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "5937897de0e921ed",
@@ -54,6 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "20 Daily and Permanent Notes/2021-08-26.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -69,15 +74,15 @@
   },
   "active": "0da7ee3f6896a812",
   "lastOpenFiles": [
-    "Drag and drop test.md",
-    "Untitled.md",
-    "Daily Notes/2021-08-25.md",
-    "Daily Notes/21-8-25-21.42 (Edit name or key world).md",
-    "Daily Notes/21-8-25-21.41 (Edit name or key world).md",
-    "Daily Notes/Markdown Help I.md",
-    "Literature Notes/Markdown Help.md",
-    "Daily Notes/21-8-25-20.57 (Edit name or key world).md",
-    "Literature Notes/Program Studi MB-IPB.md",
-    "Daily Notes/21-8-25-15.28 (Edit name or key world).md"
+    "20 Daily and Permanent Notes/2021-08-26.md",
+    "20 Daily and Permanent Notes/2021-08-25.md",
+    "20 Daily and Permanent Notes/2021-08-24.md",
+    "20 Daily and Permanent Notes/21-8-27-22.36 (Edit name or key world).md",
+    "20 Daily and Permanent Notes/21-8-25-14.21 (Dillinger).md",
+    "20 Daily and Permanent Notes/21-8-24-17.39 (LaTex).md",
+    "20 Daily and Permanent Notes/2021-08-27.md",
+    "Daily Notes/2021-08-27.md",
+    "markdown-index-generator-master/README.md",
+    "Drag and drop test.md"
   ]
 }
