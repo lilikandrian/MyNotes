@@ -1,0 +1,9 @@
+{
+  "name" : "Zettelkasten Local",
+  "fileExtension" : ".md",
+  "autoUploadInsertedImage" : false,
+  "folderType" : 10,
+  "mediaFloder" : "media",
+  "orderBy" : 2,
+  "newlinesToBR" : 0
+}
