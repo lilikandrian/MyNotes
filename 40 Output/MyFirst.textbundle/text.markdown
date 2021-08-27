@@ -1,4 +1,4 @@
-# Text Bundle
+# [Langsung Menuku Artikel](assets/Panjang.md)
 
 
 Kita cari tau apakah itu tex bundle
@@ -31,19 +31,9 @@ Karna gambar juga tidak dapat terlihat.
 - ini membuat Bullet
 
 
-
-
-
-##
-##
-##
-##
-##
-##
-##
-##
-##
-
-![](assets/16299219348148.jpg)
+![tes](assets/Panjang.md)
+---
+# pake tagar biar pisah
+[tes](assets/Panja.md)
 
 
