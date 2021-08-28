@@ -7,11 +7,8 @@
         "id": "0da7ee3f6896a812",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "30 Idea Dumpbox/21-8-26-12.38 (Edit name or key world).md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -35,7 +32,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "#Markdown",
+            "query": "tag:#TipsandTrik",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -45,8 +42,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 1
   },
   "right": {
     "id": "5937897de0e921ed",
@@ -58,7 +54,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "30 Idea Dumpbox/21-8-26-12.38 (Edit name or key world).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
